@@ -31,7 +31,6 @@ pandas
 pillow
 python-dotenv
 pyyaml
-seaborn
 semantic-kernel[azure]
 streamlit
 tavily-python
