@@ -1,6 +1,8 @@
 agent-framework
 beautifulsoup4
 faiss-cpu
+gradio
+gradio_client
 ipykernel
 langchain[openai]
 langchain-openai
