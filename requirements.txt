@@ -1,9 +1,11 @@
 agent-framework
+asyncio
 beautifulsoup4
 faiss-cpu
 gradio
 gradio_client
 ipykernel
+langchain-chroma
 langchain[openai]
 langchain-openai
 langchain-community
