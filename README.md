@@ -64,8 +64,6 @@ Step into the world of distributed intelligence. Watch multiple agents collabora
 ## 💡 Tips
 
 - Make sure your environment variables (API keys, endpoints) are set up for any cloud-based demos.
-- Explore the `Assets/images/` folder for helpful diagrams.
-- Check out the modular code in `skills/`, `agents/`, and `planners/` for reusable components.
 
 ---
 
