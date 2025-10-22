@@ -1,6 +1,7 @@
 agent-framework
 asyncio
 beautifulsoup4
+chromadb
 faiss-cpu
 gradio
 gradio_client
@@ -10,6 +11,8 @@ langchain[openai]
 langchain-openai
 langchain-community
 langgraph
+numpy
 openai
+python-dotenv
 semantic-kernel[azure]
 streamlit
